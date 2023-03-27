@@ -1,9 +1,10 @@
-# rabbit_hole
+# Rabbit Hole
 ![logo_rabit_hole](https://user-images.githubusercontent.com/107645804/228008855-3d336ad8-2e56-40b1-a6e9-1800d3b5d714.png)
 <br><br><br><br>
 Game developed during Global Game Jam 2023 </br>
-to play the game, just dowload it and run the exe file </br>
-If any anti-virus pop ups alert for any malware, choose to ignore it. 
+to play the game, just dowload it and run the exe file, If any anti-virus pop ups alert for any malware, choose to ignore it. <br>
+the [rabbits_hole.yyz](https://github.com/ViniTeider/rabbit_hole/blob/main/rabbits_hole.yyz) file is a gamemaker engine file, you can open it with gamemaker studio and change / view the game code as you like
+
 <br><br><br><br>
 
 
