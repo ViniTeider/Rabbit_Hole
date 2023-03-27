@@ -5,12 +5,14 @@ Game developed during Global Game Jam 2023 </br>
 to play the game, just dowload it and run the exe file, If any anti-virus pop ups alert for any malware, choose to ignore it. <br>
 the [rabbits_hole.yyz](https://github.com/ViniTeider/rabbit_hole/blob/main/rabbits_hole.yyz) file is a gamemaker engine file, you can open it with gamemaker studio and change / view the game code as you like
 
-<br><br><br><br>
+<br><br>
 
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/107645804/228008983-42462c03-3e27-48cb-b1ab-f0310b409434.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/107645804/228009953-68f2199c-6839-4df7-adac-e4127ac77a2b.png"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/107645804/228008992-3c42f551-fbab-4478-8a11-0048520bbbc6.png"> 
+</p>
 
-![print 2](https://user-images.githubusercontent.com/107645804/228008983-42462c03-3e27-48cb-b1ab-f0310b409434.png)
-![Screenshot_1](https://user-images.githubusercontent.com/107645804/228008992-3c42f551-fbab-4478-8a11-0048520bbbc6.png)
-![print 1](https://user-images.githubusercontent.com/107645804/228009953-68f2199c-6839-4df7-adac-e4127ac77a2b.png)
 
 
 <br><br><br><br>
